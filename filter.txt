@@ -1,0 +1,41 @@
+uukanshu.com###tool_btm1
+uukanshu.com###tool_btm2
+uukanshu.com##.samebooks1
+uukanshu.com##.share_fb
+uukanshu.com##.button-twitter
+uukanshu.com###footer
+uukanshu.com##.box
+
+blog.csdn.net##.csdn-side-toolbar
+
+juejin.cn##.link
+juejin.cn##.extension
+juejin.cn##.article-suspended-panel
+juejin.cn##.app-link
+juejin.cn##.btn.meiqia-btn
+juejin.cn##.nav-item.auth
+juejin.cn##.nav-item.add.creator-item
+juejin.cn##.nav-item.vip-entry
+
+passport.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fwuhuagu_wuhuaguo%2Farticle%2Fdetails%2F111939199&iframe=true&newframe=true&version=loginv3"]
+blog.csdn.net##[src*="https://passport.csdn.net/account/login?from=https%3A%2F%2Fblog.csdn.net%2Fwuhuagu_wuhuaguo%2Farticle%2Fdetails%2F111939199&iframe=true&newframe=true&version=loginv3"]
+blog.csdn.net###recommendNps
+blog.csdn.net###asideNewNps > .aside-content
+blog.csdn.net###asideNewNps > .aside-title
+blog.csdn.net##.box-shadow.mb8
+blog.csdn.net##.left-toolbox
+
+! class用# id用.
+eyny.com###col
+eyny.com###f_pst
+eyny.com##table:nth-of-type(2)
+eyny.com##.hdc.cl
+eyny.com###nv
+eyny.com###ft
+eyny.com##td.p_top
+eyny.com##.avatar
+
+www.instagram.com##div._ab8w._ab94._ab97._ab9h._ab9m._ab9o._abcm:nth-of-type(3)
+
+
+
